@@ -1,0 +1,6 @@
+C:\Users\Юрий\Desktop\projects\lab8\lab8\bin\Debug\lab8.exe.config
+C:\Users\Юрий\Desktop\projects\lab8\lab8\obj\Debug\lab8.csprojResolveAssemblyReference.cache
+C:\Users\Юрий\Desktop\projects\lab8\lab8\bin\Debug\lab8.exe
+C:\Users\Юрий\Desktop\projects\lab8\lab8\bin\Debug\lab8.pdb
+C:\Users\Юрий\Desktop\projects\lab8\lab8\obj\Debug\lab8.exe
+C:\Users\Юрий\Desktop\projects\lab8\lab8\obj\Debug\lab8.pdb
